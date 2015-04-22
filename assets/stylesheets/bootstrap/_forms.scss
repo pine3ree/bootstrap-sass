@@ -375,13 +375,13 @@ input[type="checkbox"] {
   pointer-events: none;
 }
 .input-lg + .form-control-feedback,
-.form-control-lg .form-control + .form-control-feedback {
+.form-group-lg .form-control + .form-control-feedback {
   width: $input-height-large;
   height: $input-height-large;
   line-height: $input-height-large;
 }
 .input-sm + .form-control-feedback,
-.form-control-sm .form-control + .form-control-feedback {
+.form-group-sm .form-control + .form-control-feedback {
   width: $input-height-small;
   height: $input-height-small;
   line-height: $input-height-small;
